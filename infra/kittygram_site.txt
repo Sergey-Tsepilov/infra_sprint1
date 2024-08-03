@@ -1,0 +1,5 @@
+IP: 84.252.143.109;
+name_taski: https://taski-st08kz.ddns.net/;
+name_kittygram: https://kittygram-st08kz.ddns.net/;
+login: st08kz;
+password: 8DEVSts94#@!;
